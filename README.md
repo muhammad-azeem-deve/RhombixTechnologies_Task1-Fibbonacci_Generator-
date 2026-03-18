@@ -53,8 +53,8 @@ python app.py
 
 # 5.  How It Works
 
-User inputs a number (n)
-Flask processes the request
-Backend generates Fibonacci sequence up to n terms
-Result is displayed dynamically on the UI
+User inputs a number (n).
+Flask processes the request.
+Backend generates Fibonacci sequence up to n terms.
+Result is displayed dynamically on the UI.
 
