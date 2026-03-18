@@ -43,9 +43,9 @@ source venv/bin/activate   # Linux/Mac
 venv\Scripts\activate      # Windows
 
 # 3. Install dependencies
-vs code
-python
-add python extension
+vs code,
+python,
+add python extension,
 install dependencies (flask)
 
 # 4. Run the application
